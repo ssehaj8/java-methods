@@ -45,6 +45,7 @@ public class AgeHeightComparison {
 
         	// Finding and displaying the youngest and tallest friend
         	System.out.println("The youngest friend is: " + findYoungest(friends, ages));
+        
         	System.out.println("The tallest friend is: " + findTallest(friends, heights));
     	}
 }
